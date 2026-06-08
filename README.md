@@ -7,10 +7,13 @@
 - **[Proxmox Template Creator](https://github.com/polar-n0de/proxmox-template-creator)** - Automated cloud-init template creation for multi-distribution VM deployment (Debian, Ubuntu, Rocky, AlmaLinux, Fedora)
 
 ### Core Skills
-**Infrastructure**: Linux Admin • VMware • Proxmox • Ansible  
-**Monitoring**: Zabbix • SNMP • Observability  
+**Infrastructure**: Linux Admin • VMware • Proxmox • Proxmox Backup Server • Ansible  
+**Monitoring**: Zabbix • Prometheus • Grafana • SNMP • Observability  
+**Cloud**: AWS (Cloud Practitioner)  
+**Networking**: OPNsense • Firewall Management • Network Security  
 **Automation**: Bash • PowerShell • Infrastructure as Code  
-**Hardware**: Custom Build Servers • Homelab Tinkering • System Architecture  
+**Hardware**: Custom Build Servers • Homelab Architecture & Tinkering  
+**Documentation**: BookStack • Technical Writing  
 **Specialties**: Backup & Disaster Recovery • Systems Administration
 
 ### Open Source
