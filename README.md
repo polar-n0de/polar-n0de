@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm polar-n0de 🐧
 
-<!--
-**polar-n0de/polar-n0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Linux Systems Administration • Monitoring • Infrastructure Automation**
 
-Here are some ideas to get you started:
+### Featured Projects
+- **[Zabbix Custom Templates](https://github.com/polar-n0de/zabbix-custom-templates)** - Windows & network device monitoring for Linux-based Zabbix servers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Skills
+**Infrastructure**: Linux Admin • VMware • Proxmox • Ansible  
+**Monitoring**: Zabbix • SNMP • Observability  
+**Automation**: Bash • PowerShell • Infrastructure as Code  
+**Specialties**: Backup & Disaster Recovery • Systems Administration
+
+### Open Source
+Active translator for FOSS projects and Linux distributions
