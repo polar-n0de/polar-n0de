@@ -2,20 +2,39 @@
 
 **Linux Systems Administration • Monitoring • Infrastructure Automation**
 
+📍 Almería, Spain | 📧 adrianpintea@proton.me | [LinkedIn](https://linkedin.com/in/YOUR-PROFILE)
+
+---
+
 ### Featured Projects
 
-- **[Proxmox Template Creator](https://github.com/polar-n0de/proxmox-template-creator)** - Automated cloud-init template creation for multi-distribution VM deployment (Debian, Ubuntu, Rocky, AlmaLinux, Fedora)
-- **[Zabbix Custom Items](https://github.com/polar-n0de/zabbix-custom-items)** - Windows RDP session & firewall monitoring user parameters for Linux-based Zabbix servers
-  
+- **[Proxmox Template Creator](https://github.com/polar-n0de/proxmox-template-creator)** — Automated cloud-init template creation for multi-distribution VM deployment (Debian, Ubuntu, Rocky, AlmaLinux, Fedora)
+- **[Zabbix Custom Items](https://github.com/polar-n0de/zabbix-custom-items)** — Custom monitoring templates and user parameters for Windows security, SNMP discovery, and network devices. Production-ready.
+
+---
+
 ### Core Skills
+
 **Infrastructure**: Linux Admin • VMware • Proxmox • Proxmox Backup Server • Ansible  
 **Monitoring**: Zabbix • Prometheus • Grafana • SNMP • Observability  
-**Cloud**: AWS (Cloud Practitioner)  
-**Networking**: OPNsense • Firewall Management • Network Security  
+**Cloud**: AWS • CloudFormation • HPC (SLURM) • Cost Optimization  
+**Networking**: OPNsense • HAProxy • Firewall Management • Network Security  
 **Automation**: Bash • PowerShell • Infrastructure as Code  
-**Hardware**: Custom Build Servers • Homelab Architecture & Tinkering  
-**Documentation**: BookStack • Technical Writing  
-**Specialties**: Backup & Disaster Recovery • Systems Administration
+**Backup & DR**: Bacula • Veeam • Proxmox Backup Server  
+**Documentation**: BookStack • Technical Writing (EN/ES/RO)  
 
-### Open Source
-Active translator for FOSS projects and Linux distributions
+---
+
+### Open Source Contributions
+
+Active translator for FOSS projects:
+- **[Proxmox VE](https://proxmox.com)** — Romanian translation (in progress)
+- **[Bacularis](https://bacularis.app)** — Romanian translation (in progress)
+- **[EndeavourOS](https://endeavouros.com)** — Romanian translation (former contributor)
+
+---
+
+### Certifications
+
+- 🏅 AWS Certified Cloud Practitioner (CLF-C02)
+- 🎓 Cambridge C1 Advanced English (CAE)
