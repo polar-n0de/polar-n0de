@@ -2,7 +2,7 @@
 
 **Linux Systems Administration • Monitoring • Infrastructure Automation**
 
-📍 Almería, Spain | 📧 adrianpintea@proton.me | [LinkedIn](https://linkedin.com/in/YOUR-PROFILE)
+📍 Almería, Spain | 📧 polar-n0de@pm.me | [LinkedIn](www.linkedin.com/in/radu-adrian-pintea)
 
 ---
 
