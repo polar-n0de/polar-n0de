@@ -12,8 +12,15 @@
 
 ---
 
+### In Progress
+- **HA Apache Guacamole** — Infrastructure-as-Code deployment of a highly-available Guacamole gateway with a MariaDB Galera cluster and session video recording
+- **HA Zabbix Cluster** — Multi-node Zabbix server cluster with proxies and a clustered database backend for resilient, scalable monitoring
+
+---
+
 ### Core Skills
 **Infrastructure**: Linux Admin • VMware • Proxmox • Proxmox Backup Server • Ansible  
+**High Availability**: Clustering • MariaDB Galera • Load Balancing • Failover  
 **Monitoring**: Zabbix • Prometheus • Grafana • SNMP • Observability  
 **Cloud**: AWS • CloudFormation • HPC (SLURM) • Cost Optimization  
 **Networking**: OPNsense • HAProxy • Firewall Management • Network Security  
