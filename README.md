@@ -41,3 +41,8 @@ Active translator for FOSS projects:
 ### Certifications
 - 🏅 AWS Certified Cloud Practitioner (CLF-C02)
 - 🎓 Cambridge C1 Advanced English (CAE)
+
+---
+### About the repos here
+
+Most of my current systems, infrastructure, and automation work is developed within private repositories for organizations and client environments. The public repositories shown here are largely personal and academic, exploratory projects. While I cannot share confidential source code, I'm happy to discuss the design, architecture, and operational challenges of production systems I've worked on.
