@@ -43,6 +43,14 @@ Active translator for FOSS projects:
 - 🎓 Cambridge C1 Advanced English (CAE)
 
 ---
+### Background
+- Passionate about Linux, open-source software, and infrastructure technologies
+- Always learning, building, and refining technical skills through hands-on projects
+- Enthusiastic about monitoring and observability with Zabbix
+- Operates a Proxmox homelab for testing, experimentation, and self-hosting
+- Entrepreneurially oriented, with an interest in creating technology solutions that solve real-world problems
+
+---
 ### About the repos here
 
 Most of my current systems, infrastructure, and automation work is developed within private repositories for organizations and client environments. The public repositories shown here are largely personal and academic, exploratory projects. While I cannot share confidential source code, I'm happy to discuss the design, architecture, and operational challenges of production systems I've worked on.
