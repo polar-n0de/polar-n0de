@@ -36,7 +36,7 @@
 ### Open Source Contributions
 
 Active translator for FOSS projects:
-- **[Proxmox VE](https://proxmox.com)** — Romanian translation (in progress)
+- **[Proxmox VE](https://proxmox.com)** — Romanian translation (submitted, pending review)
 - **[Bacularis](https://bacularis.app)** — Romanian translation (in progress)
 - **[EndeavourOS](https://endeavouros.com)** — Romanian translation (former contributor)
 
