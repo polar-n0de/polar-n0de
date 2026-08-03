@@ -1,4 +1,4 @@
-# Hi, I'm polar-n0de 🐧
+# Hi, I'm polar-node 🐧
 **Linux Systems Administration • Monitoring • Infrastructure Automation**
 📍 Almería, Spain | 📧 polar-n0de@pm.me | [LinkedIn](https://www.linkedin.com/in/radu-adrian-pintea)
 
