@@ -13,11 +13,6 @@ I'm drawn to Linux systems, cloud infrastructure, and keeping both running relia
 - RHCSA
 - Expanding monitoring stack evaluation: CheckMK, Netdata, DataDog
 
-**Goals**
-- LPIC-1
-- RHCSA
-- Expanding monitoring stack evaluation: CheckMK, Netdata, DataDog
-
 ---
 
 ### Featured Projects
